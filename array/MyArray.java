@@ -5,7 +5,7 @@ public class MyArray {
 	int count; // 요소의 갯수
 	
 	public int ARRAY_SIZE;
-	static final int ERROR_NUM = -999999999;
+	public static final int ERROR_NUM = -999999999;
 	
 	public MyArray() {
 		count = 0;
