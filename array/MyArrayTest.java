@@ -3,7 +3,7 @@ package array;
 public class MyArrayTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		MyArray array = new MyArray();
 		array.addElement(10);
 		array.addElement(20);

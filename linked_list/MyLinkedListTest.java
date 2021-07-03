@@ -3,7 +3,6 @@ package linked_list;
 public class MyLinkedListTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		MyLinkedList list = new MyLinkedList();
 		list.addElement("A");
 		list.addElement("B");
